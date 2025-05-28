@@ -1,0 +1,10 @@
+C:\Users\Efe_O\source\repos\SağlıkAsistanı\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Efe_O\source\repos\SağlıkAsistanı\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Efe_O\source\repos\SağlıkAsistanı\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Efe_O\source\repos\SağlıkAsistanı\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Efe_O\source\repos\SağlıkAsistanı\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Efe_O\source\repos\SağlıkAsistanı\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Efe_O\source\repos\SağlıkAsistanı\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Efe_O\source\repos\SağlıkAsistanı\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Efe_O\source\repos\SağlıkAsistanı\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Efe_O\source\repos\SağlıkAsistanı\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
